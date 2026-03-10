@@ -1,4 +1,8 @@
 # Banking Data Analysis Power BI Dashboard
+## Dashboard File
+
+Download the Power BI dashboard from the link below:
+https://drive.google.com/file/d/1G1Y-7h2b1oyjGF1brKCQA4_kLcG1AsfY/view?usp=drive_link
 
 This project presents an interactive Power BI dashboard designed to analyze banking data and uncover insights related to customer demographics, loan distribution, and financial performance.
 
